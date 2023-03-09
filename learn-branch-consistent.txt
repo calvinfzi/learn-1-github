@@ -7,6 +7,8 @@ New Consisitent Plant
 2. Vue.Js
   - Dinamis
 3. Angular.Js
+  - Dinamis
+  - Universal
 - Make Consistent fundamental javascript 
 - Make Consistent Jquery
 
