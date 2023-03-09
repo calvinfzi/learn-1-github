@@ -3,10 +3,13 @@ New Consisitent Plant
 - Make consistent Javascript
 - Make consistent Javascript Framework
 1. React.Js
-   - flexibel
-   - Efficiency
+  - Universal
 2. Vue.Js
-   - library
+  - Dinamis
+3. Angular.Js
+  - Dinamis
+  - Universal
 - Make Consistent fundamental javascript 
+- Make Consistent Jquery
 
 
