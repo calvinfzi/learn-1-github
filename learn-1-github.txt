@@ -2,3 +2,5 @@ Consistent To be FE
 - Make consistent learn CSS
 - Make consistent learn Javascript
 - Make consistent for portofolio
+- Consistent for learn javascript Framework
+- Make To be Expert FE
