@@ -3,8 +3,10 @@ New Consisitent Plant
 - Make consistent Javascript
 - Make consistent Javascript Framework
 1. React.Js
+   - flexibel
+   - Efficiency
 2. Vue.Js
-3. Angular.Js
+   - library
 - Make Consistent fundamental javascript 
 
 
